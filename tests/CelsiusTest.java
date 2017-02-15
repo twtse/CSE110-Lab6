@@ -4,6 +4,7 @@ import junit.framework.TestCase;
 
 public class CelsiusTest extends TestCase{
     private float delta = 0.001f;
+    
 
     public void testCelsius(){
         float value = 12.34f;
